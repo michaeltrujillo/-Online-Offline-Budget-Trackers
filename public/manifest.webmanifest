@@ -1,0 +1,7 @@
+{
+    "name": "BudgetTracker",
+    "start_url": "http://localhost:3000/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "A stand alone budget tracker that, if offline, will self update when reconnected to the internet"
+  }
